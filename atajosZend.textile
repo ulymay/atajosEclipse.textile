@@ -1,0 +1,26 @@
+h1. Atajos de teclado para el Zend Studio 10.0
+
+Para editar un comando: Window -> Preferences -> General -> Keys
+
+h2. Edición 
+
+| *Ctrl+D* | elimina la línea actual (en la que se encuentra el cursor) |
+
+| *Ctrl+Shift+C* | comentar/descomentar con // las líneas seleccionadas |
+
+| *Ctrl+→* | saltar con el cursor una palabra completa hacia la derecha del cursor |
+| *Ctrl+←* | saltar con el cursor una palabra completa hacia la izquierda del cursor |
+| *Ctrl+Shift+→* | selecciona una palabra completa hacia la derecha del cursor |
+| *Ctrl+Shift+←* | selecciona una palabra completa hacia la izquierda del cursor |
+
+h2. Gestión de ficheros
+
+| *Ctrl+Shift+R* |  permite abrir un fichero escribiendo las primeras letras de su nombre (Open Resource) |
+
+| *Ctrl+Tab* | siguiente pestaña abierta (Configurar el Command 'Next Tab')|
+| *Ctrl+Shift+Tab* | anterior pestaña abierta (Configurar el Command 'Previous Tab')|
+
+| *Ctrl+S* | salvar fichero actual (Fernando)|
+| *Ctrl+Shift+S* | salvar todos los ficheros con cambios |
+
+| *Ctrl+Shift+P* | con el cursor en un comienzo o fin de llave o paréntesis, lleva al otro extremo |
