@@ -21,6 +21,9 @@ h2. Edición
 | *Alt+↑* | intercambiar línea actual con la superior |
 | *Alt+↓* | intercambiar línea actual con la inferior |
 
+| *Ctrl+Alt+↑* | duplica la línea actual en la línea superior (¡desactivar antes la funcionalidad de rotación de pantalla de Intel!)|
+| *Ctrl+Alt+↓* | duplica la línea actual en la línea inferior (¡desactivar antes la funcionalidad de rotación de pantalla de Intel!)|
+
 | *Alt+←* | ir a la anterior edición (ya sea en este fichero u otro) |
 | *Alt+→* | ir a la siguiente edición (ya sea en este fichero u otro) |
 
