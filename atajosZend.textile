@@ -1,4 +1,4 @@
-h1. Atajos de teclado para el Zend Studio 10.0
+h1. Atajos de teclado para el ZendStudio 10.0
 
 Para editar un comando: Window -> Preferences -> General -> Keys
 
