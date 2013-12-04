@@ -15,9 +15,24 @@ h2. Edición
 | *Ctrl+Shift+→* | selecciona una palabra completa hacia la derecha del cursor |
 | *Ctrl+Shift+←* | selecciona una palabra completa hacia la izquierda del cursor |
 
+| *Ctrl+Z* | deshacer edición |
+| *Ctrl+Y* | rehacer edición (yo lo prefiero como Ctrl+Shift+Z) |
+
+| *Alt+↑* | intercambiar línea actual con la superior |
+| *Alt+↓* | intercambiar línea actual con la inferior |
+
+| *Alt+←* | ir a la anterior edición (ya sea en este fichero u otro) |
+| *Alt+→* | ir a la siguiente edición (ya sea en este fichero u otro) |
+
+| *Ctrl+L* | ir a la línea número (introducir) |
+
+| *Ctrl+-* | comprimir bloque de llaves |
+| *Ctrl++* | desplegar bloque de llaves |
+
 h2. Gestión de ficheros
 
-| *Ctrl+Shift+R* |  permite abrir un fichero escribiendo las primeras letras de su nombre (Open Resource) |
+| *Ctrl+Shift+R* |  permite abrir un fichero (del workspace) escribiendo las primeras letras de su nombre (Open Resource) |
+| *Ctrl+E* |  permite cambiar a una pestaña abierta escribiendo las primeras letras de su nombre (o usando las flechas) |
 
 | *Ctrl+Tab* | siguiente pestaña abierta (Configurar el Command 'Next Tab')|
 | *Ctrl+Shift+Tab* | anterior pestaña abierta (Configurar el Command 'Previous Tab')|
@@ -26,3 +41,7 @@ h2. Gestión de ficheros
 | *Ctrl+Shift+S* | salvar todos los ficheros con cambios |
 
 | *Ctrl+Shift+P* | con el cursor en un comienzo o fin de llave o paréntesis, lleva al otro extremo |
+
+| *Ctrl+O* | mostrar y seleccionar métodos y atributos de la clase actual |
+
+| *Ctrl+M* | maximizar/minimizar el panel activo |
