@@ -6,6 +6,8 @@ h2. Edición
 
 | *Ctrl+D* | elimina la línea actual (en la que se encuentra el cursor) |
 
+| *Ctrl+Shift+F* | formatear código (tabulaciones, saltos de línea,...) |
+
 | *Ctrl+Shift+C* | comentar/descomentar con // las líneas seleccionadas |
 
 | *Ctrl+→* | saltar con el cursor una palabra completa hacia la derecha del cursor |
