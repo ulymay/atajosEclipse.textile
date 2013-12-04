@@ -29,19 +29,21 @@ h2. Edición
 | *Ctrl+-* | comprimir bloque de llaves |
 | *Ctrl++* | desplegar bloque de llaves |
 
+
 h2. Gestión de ficheros
 
 | *Ctrl+Shift+R* |  permite abrir un fichero (del workspace) escribiendo las primeras letras de su nombre (Open Resource) |
 | *Ctrl+E* |  permite cambiar a una pestaña abierta escribiendo las primeras letras de su nombre (o usando las flechas) |
 
-| *Ctrl+Tab* | siguiente pestaña abierta (Configurar el Command 'Next Tab')|
-| *Ctrl+Shift+Tab* | anterior pestaña abierta (Configurar el Command 'Previous Tab')|
-
 | *Ctrl+S* | salvar fichero actual (Fernando)|
 | *Ctrl+Shift+S* | salvar todos los ficheros con cambios |
 
-| *Ctrl+Shift+P* | con el cursor en un comienzo o fin de llave o paréntesis, lleva al otro extremo |
 
 | *Ctrl+O* | mostrar y seleccionar métodos y atributos de la clase actual |
+
+h2. Gestión de paneles
+
+| *Ctrl+Tab* | siguiente pestaña abierta (Configurar el Command 'Next Tab')|
+| *Ctrl+Shift+Tab* | anterior pestaña abierta (Configurar el Command 'Previous Tab')|
 
 | *Ctrl+M* | maximizar/minimizar el panel activo |
