@@ -32,6 +32,8 @@ h2. Edición
 | *Ctrl+-* | comprimir bloque de llaves |
 | *Ctrl++* | desplegar bloque de llaves |
 
+| *Ctrl+L* | ir a número de línea |
+
 | *Ctrl+Shift+P* | con el cursor en un comienzo o fin de llave o paréntesis, lleva al otro extremo |
 
 h2. Gestión de ficheros
@@ -50,3 +52,7 @@ h2. Gestión de paneles
 | *Ctrl+Shift+Tab* | anterior pestaña abierta (Configurar el Command 'Previous Tab')|
 
 | *Ctrl+M* | maximizar/minimizar el panel activo |
+
+h2. General
+
+| *Ctrl+Shift+L* | mostrar todos los atajos de teclado |
