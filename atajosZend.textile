@@ -12,8 +12,12 @@ h2. Edición
 
 | *Ctrl+→* | saltar con el cursor una palabra completa hacia la derecha del cursor |
 | *Ctrl+←* | saltar con el cursor una palabra completa hacia la izquierda del cursor |
+
 | *Ctrl+Shift+→* | selecciona una palabra completa hacia la derecha del cursor |
 | *Ctrl+Shift+←* | selecciona una palabra completa hacia la izquierda del cursor |
+
+| *Alt+Shift+↑* | selecciona elemento actual (y superior incrementalmente) |
+| *Alt+Shift+←* | deseleccionar elmeneto actual (hacia inferior incrementalmente) |
 
 | *Ctrl+Z* | deshacer edición |
 | *Ctrl+Y* | rehacer edición (yo lo prefiero como Ctrl+Shift+Z) |
@@ -56,3 +60,5 @@ h2. Gestión de paneles
 h2. General
 
 | *Ctrl+Shift+L* | mostrar todos los atajos de teclado |
+
+http://www.shortcutworld.com/en/win/Eclipse.html#link_4
