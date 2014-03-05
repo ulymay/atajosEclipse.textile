@@ -31,6 +31,8 @@ h2. Edición
 | *Alt+←* | ir a la anterior edición (ya sea en este fichero u otro) |
 | *Alt+→* | ir a la siguiente edición (ya sea en este fichero u otro) |
 
+| *Alt+Shift+A* | entra/sale del modo selección en bloque (permite selecciona regiones rectangulares para copiarlas y pegar tras salir del modo) |
+
 | *Ctrl+L* | ir a la línea número (introducir) |
 
 | *Ctrl+-* | comprimir bloque de llaves |
