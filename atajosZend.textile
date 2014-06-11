@@ -42,6 +42,10 @@ h2. Edición
 
 | *Ctrl+Shift+P* | con el cursor en un comienzo o fin de llave o paréntesis, lleva al otro extremo |
 
+| *Ctrl+Shift+X* | convierte letras a mayúsculas (para el texto seleccionado) |
+| *Ctrl+Shift+Y* | convierte letras a minúsculas (para el texto seleccionado) |
+
+
 h2. Gestión de ficheros
 
 | *Ctrl+Shift+R* |  permite abrir un fichero (del workspace) escribiendo las primeras letras de su nombre (Open Resource) |
