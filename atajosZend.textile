@@ -48,7 +48,7 @@ h2. Edición
 
 h2. Gestión de ficheros
 
-| *Ctrl+Shift+R* |  permite abrir un fichero (del workspace) escribiendo las primeras letras de su nombre (Open Resource) |
+| *Ctrl+Shift+R* |  permite abrir un fichero (del workspace) escribiendo las primeras letras de su nombre (Open Resource) aunque yo lo prefiero en la combinación Ctrl+T |
 | *Ctrl+E* |  permite cambiar a una pestaña abierta escribiendo las primeras letras de su nombre (o usando las flechas) |
 
 | *Ctrl+S* | salvar fichero actual |
