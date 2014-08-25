@@ -1,5 +1,4 @@
-h1. Atajos de teclado para ZendStudio 10.0
-
+h1. Atajos de teclado para Eclipse (y derivados como ZendStudio)
 Para editar un comando: Window -> Preferences -> General -> Keys
 
 h2. Edición 
